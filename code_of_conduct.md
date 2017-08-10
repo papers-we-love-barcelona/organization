@@ -22,7 +22,7 @@ If you are experiencing harassment on or have concerns about content within the 
 
 The organizers of your local Papers We Love meet-up/event are available to help you with any issues or concerns at live and/or live-streaming events. If they are unavailable for some reason, please send a message to our contact email address or to one of our core organizers listed above. In the case of the Barcelona meetup you can contact directly with one of its organizers:
 
-- ** Jordi Montes ** [jomsdev@gmail.com](mailto:jomsdev@gmail.com)
+- **Jordi Montes** [jordimontes@acm.org](mailto:jordimontes@acm.org)
  
 What it means
 -------------
